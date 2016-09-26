@@ -1,1 +1,1 @@
-Adicione aqui os arquivos de diagrama de classes.
+Diagramas de classe do projeto

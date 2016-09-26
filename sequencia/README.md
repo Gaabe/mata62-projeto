@@ -1,1 +1,1 @@
-Adicione aqui os arquivos de diagrama de sequência.
+Diagramas de sequencia do projeto

@@ -1,1 +1,1 @@
-Adicione aqui os arquivos de protótipo de tela.
+Esboços de telas do projeto
