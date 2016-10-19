@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cheat Math</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="geometria_plana">Geometria Plana</string>
+    <string name="geometria_espacial">Geometria Espacial</string>
+    <string name="aritimetica">Aritimetica</string>
+    <string name="vol_cubo">Volume Cubo</string>
+    <string name="area_sup_cubo">Área Superficie Cubo</string>
+    <string name="diag_cubo">Diagonal Cubo</string>
+    <string name="calculate">Calcular</string>
+</resources>
